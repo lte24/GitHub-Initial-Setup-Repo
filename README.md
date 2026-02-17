@@ -1,1 +1,1 @@
-# GitHub-Initial-Setup-Repo
+Repository for git setup, Joanna Liu
